@@ -1,14 +1,14 @@
 {
-  "main.css": "/lomodd/static/css/main.522bfb1b.chunk.css",
-  "main.js": "/lomodd/static/js/main.2b1f2942.chunk.js",
-  "main.js.map": "/lomodd/static/js/main.2b1f2942.chunk.js.map",
-  "static/js/1.1670935a.chunk.js": "/lomodd/static/js/1.1670935a.chunk.js",
-  "static/js/1.1670935a.chunk.js.map": "/lomodd/static/js/1.1670935a.chunk.js.map",
-  "runtime~main.js": "/lomodd/static/js/runtime~main.6be00d4b.js",
-  "runtime~main.js.map": "/lomodd/static/js/runtime~main.6be00d4b.js.map",
-  "static/media/logo.svg": "/lomodd/static/media/logo.5d5d9eef.svg",
-  "static/css/main.522bfb1b.chunk.css.map": "/lomodd/static/css/main.522bfb1b.chunk.css.map",
-  "index.html": "/lomodd/index.html",
-  "precache-manifest.80c41679b528c4a261c2d84137705f48.js": "/lomodd/precache-manifest.80c41679b528c4a261c2d84137705f48.js",
-  "service-worker.js": "/lomodd/service-worker.js"
+  "main.css": "/react-tutorial/static/css/main.522bfb1b.chunk.css",
+  "main.js": "/react-tutorial/static/js/main.91c05f17.chunk.js",
+  "main.js.map": "/react-tutorial/static/js/main.91c05f17.chunk.js.map",
+  "static/js/1.1670935a.chunk.js": "/react-tutorial/static/js/1.1670935a.chunk.js",
+  "static/js/1.1670935a.chunk.js.map": "/react-tutorial/static/js/1.1670935a.chunk.js.map",
+  "runtime~main.js": "/react-tutorial/static/js/runtime~main.d6d0aa42.js",
+  "runtime~main.js.map": "/react-tutorial/static/js/runtime~main.d6d0aa42.js.map",
+  "static/media/logo.svg": "/react-tutorial/static/media/logo.5d5d9eef.svg",
+  "static/css/main.522bfb1b.chunk.css.map": "/react-tutorial/static/css/main.522bfb1b.chunk.css.map",
+  "index.html": "/react-tutorial/index.html",
+  "precache-manifest.e572897505664088361648e48d8d9d3a.js": "/react-tutorial/precache-manifest.e572897505664088361648e48d8d9d3a.js",
+  "service-worker.js": "/react-tutorial/service-worker.js"
 }
